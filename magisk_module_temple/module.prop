@@ -2,6 +2,6 @@ id=zygisk-test
 name=zygisktest
 version=v1.0
 versionCode=1
-author=huruwo
+author=Huruwo
 description=zygisk-test
 
